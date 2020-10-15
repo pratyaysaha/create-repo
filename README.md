@@ -21,3 +21,6 @@ i am going to learn about git
 # A new branch
 uses checkout
 uses branch
+
+# A new section
+new feature added to master
