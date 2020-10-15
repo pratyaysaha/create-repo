@@ -21,11 +21,15 @@ i am going to learn about git
 # A new branch
 uses checkout
 uses branch
-<<<<<<< HEAD
+
 
 # A new section
 new feature added to master
-=======
+## feature
+new_fetur
+# A new section
+new feature added to master
 ## feature
 new feature to feature/new_featur
->>>>>>> feature/new_featur
+feature/new_featur
+master
