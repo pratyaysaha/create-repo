@@ -13,6 +13,12 @@ void sub()
     cout<<"SUB: "<<a-b<<endl;
 }
 
+void mul()
+{
+    int a,b;
+    cin>>a,b;
+    cout<<"MUL :" <<a*b;
+}
 int main()
 {
     cout<<"Hello GitHub !!"<<endl;
