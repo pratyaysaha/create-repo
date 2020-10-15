@@ -10,7 +10,7 @@ void sub()
 {
     int a,b;
     cin>>a,b;
-    cout<<"SUB: "<<a-b;
+    cout<<"SUB: "<<a-b<<endl;
 }
 
 int main()
