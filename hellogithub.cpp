@@ -12,7 +12,12 @@ void sub()
     cin>>a,b;
     cout<<"SUB: "<<a-b<<endl;
 }
-
+void div()
+{
+    int a,b;
+    cin>>a,b;
+    cout<<"DIV : " <<a/b;
+}
 void mul()
 {
     int a,b;
