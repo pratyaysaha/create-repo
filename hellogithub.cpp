@@ -6,6 +6,12 @@ void add()
     cin>>a>>b;
     cout<<"ADD : "<<a+b;
 }
+void sub()
+{
+    int a,b;
+    cin>>a,b;
+    cout<<"SUB: "<<a-b;
+}
 
 int main()
 {
