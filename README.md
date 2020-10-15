@@ -17,3 +17,6 @@ but i am learning github
 
 ### this is pratyay saha
 i am going to learn about git
+
+# A new branch
+uses checkout
