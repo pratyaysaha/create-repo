@@ -6,7 +6,12 @@ void add()
     cin>>a>>b;
     cout<<"ADD : "<<a+b;
 }
-
+void mul()
+{
+    int a,b;
+    cin>>a,b;
+    cout<<"MUL :" <<a*b;
+}
 int main()
 {
     cout<<"Hello GitHub !!"<<endl;
