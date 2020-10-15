@@ -13,4 +13,5 @@ int main()
     cout<<"i am going to making a minor change in the program"<<endl;
     cout<<"BLAHHHHH"<<endl;
     add();
+    cout<<"The world is a better place";
 }
