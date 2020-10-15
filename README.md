@@ -21,3 +21,5 @@ i am going to learn about git
 # A new branch
 uses checkout
 uses branch
+## feature
+new feature to feature/new_featur
