@@ -33,3 +33,9 @@ new feature added to master
 new feature to feature/new_featur
 feature/new_featur
 master
+## feature added
+1. add()
+2. sub()
+3. mul()
+4. div()
+## deploy in machine to feel the change
