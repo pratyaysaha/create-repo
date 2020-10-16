@@ -41,3 +41,4 @@ master
 ## deploy in machine to feel the change
 1. Lets add more changes
 2. fix some bugs
+1. sometime you need to explore the world
