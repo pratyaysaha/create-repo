@@ -41,4 +41,6 @@ master
 ## deploy in machine to feel the change
 1. Lets add more changes
 2. fix some bugs
-1. sometime you need to explore the world
+3. sometime you need to explore the world
+4. need a coffee machine
+5. need a break
